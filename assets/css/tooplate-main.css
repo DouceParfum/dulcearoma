@@ -6,6 +6,13 @@ https://www.tooplate.com/view/2113-earth
 
 */
 
+@font-face {
+  font-family: 'josephsophia';
+  src: url('/assets/fonts/josephsophia.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
 @keyframes seq-preloader {
   50% {
     opacity: 1;
@@ -177,7 +184,8 @@ nav {
 }
 nav em {
 	font-style: normal;
-	font-size: 13px;
+	font-size: 24px;
+  font-family: josephsophia;
 	text-transform: uppercase;
 	display: block;
 	margin-top: 15px;
@@ -269,7 +277,8 @@ nav a::before {
 
 }
 .logo h1 {
-  font-size: 24px;
+  font-family: josephsophia;
+  font-size: 50px;
   text-transform: uppercase;
   font-weight: 900;
   color: #D299AA;
@@ -287,6 +296,7 @@ nav a::before {
 
 }
 .logo h2 {
+  font-family: josephsophia;
   display: none;
   text-shadow: 
   0 0 5px black,

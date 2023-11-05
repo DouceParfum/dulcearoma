@@ -8,7 +8,7 @@ https://www.tooplate.com/view/2113-earth
 
 @font-face {
   font-family: 'josephsophia';
-  src: url('/assets/fonts/josephsophia.ttf') format('truetype');
+  src: url('../fonts/josephsophia.ttf') format('truetype');
   font-style: normal;
   font-weight: normal;
 }

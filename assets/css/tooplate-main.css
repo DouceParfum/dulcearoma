@@ -911,5 +911,12 @@ nav a::before {
 }
 
 hr {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
+
+  box-shadow: 
+  0 0 5px rgb(0, 0, 0),
+  0 0 5px rgb(0, 0, 0),
+  0 0 5px rgb(0, 0, 0),
+  0 0 5px rgb(0, 0, 0);
+
 }

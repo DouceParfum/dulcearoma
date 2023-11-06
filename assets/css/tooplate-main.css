@@ -222,10 +222,9 @@ nav ul li {
 	margin: 5px 0px;
 
 }
-nav a, nav a:visited, nav a:active {  /*///////////////// */
+nav a, nav a:visited, nav a:active {
   color: #fff;
-
-  box-shadow: 
+  box-shadow:
   0 0 20px white inset,
   0 0 50px white;
 
@@ -879,7 +878,10 @@ nav a::before {
 /* Responsive Style */
 @media (max-width: 407px) {
   .logo h2 {
-    font-size: 36px;
+    font-size: 35px;
   }
+}
 
+hr {
+  background-color: white;
 }

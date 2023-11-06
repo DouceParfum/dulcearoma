@@ -879,8 +879,7 @@ nav a::before {
 /* Responsive Style */
 @media (max-width: 407px) {
   .logo h2 {
-    font-size: 30px;
-    background-color: red;
+    font-size: 36px;
   }
 
 }
